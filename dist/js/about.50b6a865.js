@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,e,s){"use strict";s.r(e);var n=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},a=[function(){var t=this,e=t.$createElement,s=t._self._c||e;return s("div",{staticClass:"about text-center"},[s("h1",{staticClass:"m-4"},[t._v("This is a TodoList app v1.0.0.")]),s("h2",[t._v("Using Vue.js 4.1.2")]),s("h2",[t._v("and Bootstrap 4")])])}],i=s("2877"),c={},o=Object(i["a"])(c,n,a,!1,null,null,null);e["default"]=o.exports}}]);
+//# sourceMappingURL=about.50b6a865.js.map
